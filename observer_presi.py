@@ -1,4 +1,4 @@
-from observer.observer_pattern import Observable, Observer
+from observer_pattern import Observable, Observer
 
 
 class Elf:
